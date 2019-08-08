@@ -5,7 +5,9 @@ Inspired by someone who filter "韓國瑜" in FB.
 
 Google news is a good portal for reading news.
 
-But I think the life should be beautiful and we shouldn't waste time to see someone's news that doesn't useful to us at all.
+But, why somebody are always on the media? Why we're forced to read their news? I don't care What happened to them!
+
+I think the life should be beautiful and we shouldn't waste time to see someone's news that doesn't useful to us at all.
 
 So this is a very basic example to understand how to build a simple extension and replace it to the words that you want to see.
 
