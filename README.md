@@ -20,3 +20,6 @@ You can just download it and change Chrome's setting to install it yourself.  Re
 Notice:
 1. Please modify content of "keywords.json" file to what you want to deal with. And then install it from Chrome.
 2. You can change code by your own, no copyright.
+
+Result:
+![Result PNG](https://github.com/jackzhc911/googleNewsFilter/blob/master/example-gnews.PNG)
