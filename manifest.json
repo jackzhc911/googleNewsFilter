@@ -1,0 +1,13 @@
+{
+    "name": "Google News Filter",
+    "version": "1.0",
+    "description": "To Hide some news I don't want to read.",
+    "content_scripts": [{
+		"matches": ["http://news.google.com/*", "https://news.google.com/*"],
+		"js": ["app.js"]
+	}],
+	"web_accessible_resources": [
+		"keywords.json"
+	],
+    "manifest_version": 2
+}
