@@ -17,8 +17,6 @@ You can just download it and change Chrome's setting to install it yourself.  Re
 
 ----> "Give back to Coding what is Coding's and to political what is political's." <----
 
-Anyone who lives in Republic of China are all freedom.
-
 Notice:
 1. Please modify content of "keywords.json" file to what you want to deal with. And then install it from Chrome.
 2. You can change code by your own, no copyright.
