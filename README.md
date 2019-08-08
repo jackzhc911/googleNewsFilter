@@ -13,6 +13,8 @@ From this example, you can discover how to read txt file, how to replace the HTM
 
 This is just a practice, just take it easy.(I know somebody would very SERIOUS, CC.)
 
+You can just download it and change Chrome's setting to install it yourself.  Remember to turn develper mode on.
+
 ----> "Give back to Coding what is Coding's and to political what is political's." <----
 
 Any one who lived in Republic of China are all free.
