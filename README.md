@@ -8,7 +8,7 @@ So this is a very basic example to understand how to build a simple extension an
 From this example, you can discover how to read txt file, how to replace the HTML tag but how to pack it is not included. Because I didn't learn it yet, ha ha!
 
 This is just a practice, just take it easy.(I know somebody would very SERIOUS, CC.)
-You can just download it and change Chrome's setting to install it yourself.  Remember to turn develper mode on.
+You can just download it and change Chrome's setting to install it by yourself.  Remember to turn develper mode on.
 
 ----> "Give back to Coding what is Coding's and to political what is political's." <----
 
